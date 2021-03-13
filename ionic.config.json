@@ -1,0 +1,7 @@
+{
+  "name": "ion-componentes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
